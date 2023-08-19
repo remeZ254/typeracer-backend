@@ -1,0 +1,9 @@
+{
+  "authKey": "nickName",
+  "footer": {
+    "show": false,
+    "contents": ["Zemer", "530-2525"]
+  },
+  "socketUrl": "localhost:8080",
+  "production": true
+}
